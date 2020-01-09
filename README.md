@@ -21,7 +21,7 @@ To see all available programs you need to use command `/dru-programs`.
  <img align="center" width="706" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-in.png?raw=true">
  </div>
  
- 
+ <br>
 After sending the command `/dru-programs` you will see the list of all **DRU programs** and their **descriptions**:
 
  <div align="center">
