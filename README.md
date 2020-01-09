@@ -16,21 +16,28 @@ Now let's get started with overview of the **beta-version** of the **DRU-bot**.
 To see all available programs you need to use command `/dru-programs`. 
 
 **`Hint`**: It's better to use commands in the chat with **DRU-bot**. Simply go to the chat and send the text of the command as a plain message.
- 
- <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-in.png?raw=true">
+
+ <div align="center">
+ <img align="center" width="706" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-in.png?raw=true">
+ </div>
  
 After sending the command `/dru-programs` you will see the list of all **DRU programs** and their **descriptions**:
+
  <div align="center">
- <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-out.png?raw=true">
+ <img align="center" width="450" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-out.png?raw=true">
  </div>
+ 
 Currently, there is one readily available course **Data Science Fundamentals** that you can apply for. After pressing the **`Apply`** button, you'll see the next message followed by the **`Progress`** button:
 
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dsf-apply.png?raw=true">
+<div align="center">
+<img align="center" width="420" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dsf-apply.png?raw=true">
+</div>
 
 Press the **`Progress`** button to prompt the **table of contents** to appear. **All unlocked modules** and your **progress** are displayed here.
 
+<div align="center">
 ![](https://github.com/DataRootUniversity/bot/blob/master/imgs/progress.gif)
-
+</div>
 
 We have several types of **activities**: 
 * **`Materials`** 
