@@ -36,7 +36,7 @@ Currently, there is one readily available course **Data Science Fundamentals** t
 Press the **`Progress`** button to prompt the **table of contents** to appear. **All unlocked modules** and your **progress** are displayed here.
 
 <div align="center">
-![](https://github.com/DataRootUniversity/bot/blob/master/imgs/progress.gif)
+<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/progress.gif?raw=true">
 </div>
 
 We have several types of **activities**: 
@@ -53,7 +53,9 @@ All activities except **`Materials`** are **graded** and have a set number of **
 
 **`Materials`** button is a link to the table which contains a compilation of the best **MOOCs, articles, tutorials, books** and other resources on a given topic. Also, we specified all **software** you'll need to install and **accounts** you'll need to register to pass every single module. 
 
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/materials.png?raw=true">
+<div align="center">
+<img align="center" width="625" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/materials.png?raw=true">
+</div>
 
 You can see, that there are 2 materials priorities: **Necessary 2 Pass Skills Test** and **Optional**. Materials with the first type are **required** for you to study. Also, it'll be great if you go through **optional** materials and check those that interest you.
 
@@ -65,34 +67,46 @@ Now let's move to graded activities.
 In order to pass the **`Test`** activity, follow the provided **link** and answer the questions.
 After completing all the questions, press the **`Submit`** button and view the results of your submission.
 
-![](https://github.com/DataRootUniversity/bot/blob/master/imgs/math-test.gif)
+<div align="center">
+<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/math-test.gif?raw=true">
+</div>
 
 
 ## Lab
 
 To start working on the **`Lab`** activity, **download and unpack** the archive with the template of **Jupyter notebook**, where you will work on the tasks.
 
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-template.png?raw=true">
+<div align="center">
+<img align="center" width="653" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-template.png?raw=true">
+</div>
 
 Upon finishing them, upload `.ipynb` file to your **Google Drive** and specify the following access rights:
 
-![](https://github.com/DataRootUniversity/bot/blob/master/imgs/access-rights.gif)
+<div align="center">
+<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/access-rights.gif?raw=true">
+</div>
 
 Then copy the **link** to your file and follow the instructions to **submit** it using the **command** given by the bot. The bot will process your submission and provide the results. In case of **mistakes** in your code, the bot will also provide the **full traceback** to help you to fix errors.
 
-
-![](https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-submission.gif)
+<div align="center">
+<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-submission.gif?raw=true">
+</div>
 
 
 ## Kaggle
 
 First, you need to create an account on **Kaggle** if you don't have one. Read the instructions carefully and choose one competition from the list, complete it, and submit to Kaggle. 
 
+<div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/kaggle-list.png?raw=true">
+</div>
 
 Then go to your Kaggle account settings and create an `API-token`. Copy it and use for submission to DRU-bot:
 
-![](https://github.com/DataRootUniversity/bot/blob/master/imgs/api-token.gif)    
+
+<div align="center">
+<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/api-token.gif?raw=true">
+</div> 
 
 If you did everyting correct, the final result should look like this:
 
