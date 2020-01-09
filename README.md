@@ -20,9 +20,9 @@ To see all available programs you need to use command `/dru-programs`.
  <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-in.png?raw=true">
  
 After sending the command `/dru-programs` you will see the list of all **DRU programs** and their **descriptions**:
- 
+ <div align="center">
  <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-out.png?raw=true">
- 
+ </div>
 Currently, there is one readily available course **Data Science Fundamentals** that you can apply for. After pressing the **`Apply`** button, you'll see the next message followed by the **`Progress`** button:
 
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dsf-apply.png?raw=true">
