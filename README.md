@@ -20,28 +20,28 @@ To see all available programs you need to use command `/dru-programs`.
  <div align="center">
  <img align="center" width="706" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-in.png?raw=true">
  </div>
- 
  <br>
+ 
 After sending the command `/dru-programs` you will see the list of all **DRU programs** and their **descriptions**:
 
  <div align="center">
  <img align="center" width="450" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-out.png?raw=true">
  </div>
- 
+  <br>
  
 Currently, there is one readily available course **Data Science Fundamentals** that you can apply for. After pressing the **`Apply`** button, you'll see the next message followed by the **`Progress`** button:
 
 <div align="center">
 <img align="center" width="420" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dsf-apply.png?raw=true">
 </div>
-
+<br>
 
 Press the **`Progress`** button to prompt the **table of contents** to appear. **All unlocked modules** and your **progress** are displayed here.
 
 <div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/progress.gif?raw=true">
 </div>
-
+<br>
 
 We have several types of **activities**: 
 * **`Materials`** 
@@ -60,7 +60,7 @@ All activities except **`Materials`** are **graded** and have a set number of **
 <div align="center">
 <img align="center" width="625" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/materials.png?raw=true">
 </div>
-
+<br>
 
 You can see, that there are 2 materials priorities: **Necessary 2 Pass Skills Test** and **Optional**. Materials with the first type are **required** for you to study. Also, it'll be great if you go through **optional** materials and check those that interest you.
 
@@ -75,7 +75,7 @@ After completing all the questions, press the **`Submit`** button and view the r
 <div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/math-test.gif?raw=true">
 </div>
-
+<br>
 
 
 ## Lab
@@ -85,21 +85,21 @@ To start working on the **`Lab`** activity, **download and unpack** the archive 
 <div align="center">
 <img align="center" width="653" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-template.png?raw=true">
 </div>
-
+<br>
 
 Upon finishing them, upload `.ipynb` file to your **Google Drive** and specify the following access rights:
 
 <div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/access-rights.gif?raw=true">
 </div>
-
+<br>
 
 Then copy the **link** to your file and follow the instructions to **submit** it using the **command** given by the bot. The bot will process your submission and provide the results. In case of **mistakes** in your code, the bot will also provide the **full traceback** to help you to fix errors.
 
 <div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-submission.gif?raw=true">
 </div>
-
+<br>
 
 
 ## Kaggle
@@ -109,21 +109,21 @@ First, you need to create an account on **Kaggle** if you don't have one. Read t
 <div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/kaggle-list.png?raw=true">
 </div>
-
+<br>
 
 Then go to your Kaggle account settings and create an `API-token`. Copy it and use for submission to DRU-bot:
 
 <div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/api-token.gif?raw=true">
 </div> 
-
+<br>
 
 If you did everyting correct, the final result should look like this:
 
 <div align="center">
 <img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/kaggle-submit.png?raw=true">
 </div>
-
+<br>
 
 
 ## Project
