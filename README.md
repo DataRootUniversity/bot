@@ -2,7 +2,11 @@
 
 ## In this tutorial, we summarize the changes to the functionality of an upgraded bot and roadmap content 
 
+<div oncontextmenu="return false" class="noselect">
+ 
 The new functionality of the bot and extended materials aim to improve the studying experience at DRU. We split the roadmap into **several parts** dedicated to different sections of **Machine Learning**, making the learning process **consistent** and **convenient**.
+
+</div>
 
 So, the full **DRU ML specialization** will include:
  - **Data Science Fundamentals course**
