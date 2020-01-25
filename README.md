@@ -47,6 +47,8 @@ Press the **`Progress`** button to prompt the **table of contents** to appear. *
 </div>
 <br>
 
+> The main platform for the programs is **Slack**, but they are also available on **Telegram**, so you can link your **Slack account** with the **Telegram profile**. In order to do this go to Slack and use command `/dru-validate`. It will provide you with the command `/login <code>` which is available for 120 seconds. Copy this command and send it to our [Telegram bot](https://t.me/dru_beta_v3_bot). Its usage is the same as `DRU-bot` in Slack.
+
 We have several types of **activities**: 
 * **`Materials`** 
 * **`Test`** 
@@ -132,8 +134,22 @@ If you did everyting correct, the final result should look like this:
 
 ## Project
 
-**`Project`** activity will be available soon with all needed instructions for the submission.
+Every `project` has a tutorial with the full implementation guideline. Just follow the instructions carefully to develop your project. 
+<div align="center">
+<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/snake-guide.png?raw=true">
+</div>
+<br>
 
+All submitting instructions you can find in the guides. Some of the projects (e.g. `Snake project`) you can submit in the same way as `Labs` - just compress the folders to some archive, upload to your Google Drive and provide the link to the bot. To submit another type of project you have to create a Docker image, upload it to the `Docker Hub` and provide the name of the image to the `DRU-bot`.
+
+<br>
+
+> It is **prohibited** to publish DRU **projects**, **labs** or **tests** to the **GitHub**. If you do this you'll be **kicked** from all **`DRU/dHired`** infrastructure and marked as 💩. 
+
+<div align="center">
+<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/excommunicado.png?raw=true">
+</div>
+<br>
 
 ## P.S.
 
