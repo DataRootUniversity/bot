@@ -156,7 +156,7 @@ All submitting instructions you can find in the guides. Some of the projects (e.
 
 - To unlock the next module you have to score **75%** of the current module maximum possible points;
 - If you unlocked the next module before the deadline - the remaining days won't be added to the next module;
-- You have **10 additional days** for the course - you can add them to your deadline using the command `/dru-shift` (you can use 1, 2, 3, ... days at a time)
+- You have **10 extra days** for the course - you can add them to your deadline using the command `/dru-shift` (use the command and choose amount of days, the command is available until you run out of extra days)
 - If you failed the deadline or spent all submission attempts but not opened the next module - contact course curators and we'll reset your progress so that you can start the course from the very beginning;
 - If you want to pause the course for some important reason - contact course curators.
 
