@@ -47,8 +47,6 @@ Press the **`Progress`** button to prompt the **table of contents** to appear. *
 </div>
 <br>
 
-> The main platform for the programs is **Slack**, but they are also available on **Telegram**, so you can link your **Slack account** with the **Telegram profile**. In order to do this go to Slack and use command `/dru-validate`. It will provide you with the command `/login <code>` which is available for 120 seconds. Copy this command and send it to our [Telegram bot](https://t.me/dru_beta_v3_bot). Its usage is the same as `DRU-bot` in Slack.
-
 We have several types of **activities**: 
 * **`Materials`** 
 * **`Test`** 
@@ -155,12 +153,12 @@ All submitting instructions you can find in the guides. Some of the projects (e.
 ## Deadlines & Submission Attempts
 
 - To unlock the next module you have to score **75%** of the current module maximum possible points;
-- If you unlocked the next module before the deadline - the remaining days won't be added to the next module;
-- You have **10 extra days** for the course - you can add them to your deadline using the command `/dru-shift` (use the command and choose amount of days, the command is available until you run out of extra days)
-- If you failed the deadline or spent all submission attempts but not opened the next module - contact course curators and we'll reset your progress so that you can start the course from the very beginning;
-- If you want to pause the course for some important reason - contact course curators.
+- If you unlocked the next module before the deadline — the remaining days will be added to the next module;
+- You have **10 extra days** for the course — you can add them to your deadline using the command `/dru-shift` (use the command and choose amount of days, the command is available until you run out of extra days)
+- If you failed the deadline or spent all submission attempts but not opened the next module — contact course curators and we'll reset your progress so that you can start the course from the very beginning;
+- If you want to pause the course for some important reason — contact our team in Slack (`@DRU Team`).
 
 
 ## P.S.
 
-Thanks for helping us to make the program better! If you have any questions, ideas or comments, feel free to message us. **@Alexandra Severinchik** will gladly help you with any requests :)
+Thanks for helping us to make the program better! If you have any questions, ideas or comments, feel free to contact us! **@DRU Team** will gladly help you with any requests :)
