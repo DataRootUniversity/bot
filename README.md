@@ -1,164 +1,123 @@
-# Hello and welcome to the new DRU tutorial!
+# Welcome to the first DRU course tutorial
 
-## In this tutorial, we summarize the changes to the functionality of an upgraded bot and roadmap content 
+##### Here we’ll summarize these topics:
+- What Slack is and how to use it?
+- How to start your course?
+- How to pass the First Module?
+- How to use given materials?
 
-<div oncontextmenu="return false" class="noselect">
+---
+### What Slack is and how to use it?
+The link in invitation leads you to the platform called **Slack**.
+**Slack** is the corporate messenger where you’ll take the course. Its features are similar to the most usual messengers you used before, so you’ll quickly get used to.
+
+We highly recommend to download the desktop version of **Slack** because of its much more user-friendly interface than in the web-version.
+
+![IMG 1 Slack overview](img/IMG_1_DRU_beta_v3.0_Slack.jpg)
+
+##### Links for download:
+**Windows**: https://slack.com/intl/en-ua/help/articles/209038037-Download-Slack-for-Windows   
+**Mac**: https://slack.com/intl/en-ua/help/articles/207677868-Download-Slack-for-Mac   
+**Linux**: https://slack.com/intl/en-ua/help/articles/212924728-Download-Slack-for-Linux--beta-
+
+After downloading you have to input the **workspace name**. 
+Here is it: **dru-beta-v3.slack.com**
+
+##### Use only the mail that received the invitation!!!
+If you have any questions contact us: **@DRU Team**
+
+![IMG 2 Slack desktop](img/IMG_2_DRU_beta_v3.0_Slack.jpg)
+
+Leftwards you could find the main channels for live communication, discussion of problems and converse with other students:
+
+- **#chat** — the main chat for communication and discussion of the course
+- **#introductions** — a place where you can tell about yourself and find people to study together
+- **#memes** — the name of the channel speaks for itself. Share your or your favorite memes here!
+- **#general** — a channel with messages from the bot about new students of the course and greetings to those who have already completed it
+- **#dru-печеньки** — a new chat created for informal communication. Here you can read useful posts, share interesting materials, talk about any topic and also ask questions
+- **#dsf_module_n** (where n = 1, ..., 7) — chats are created for questions related to the specific module
+
+Most of the studying will take place in **@DRU Bot**. You could find it at the bottom of the chat list. 
+*And so the fun begins…*
+
+---
+### How to start the course?
+At the moment you got into Slack, you automatically applied to the “Data Science Fundamentals” course.
+To check your task and modules go to the **@DRU Bot** App
+
+![IMG 3 Bot overview](img/IMG_3_DRU_beta_v3.0_Slack.jpg)
+
+Here you'll see simple Bot's interface and some course info:
+- How many students on the course now
+- Your total progress 
+- Your Current Module
+- Closest deadline
+- And how many days to shift you have now
+
+Also there are 2 buttons, that you’ll use all the time on course:
+- "Shift deadline"
+- "Invite friend"   
+
  
-The new functionality of the bot and extended materials aim to improve the studying experience at DRU. We split the roadmap into **several parts** dedicated to different sections of **Machine Learning**, making the learning process **consistent** and **convenient**.
+#### "Shift deadline" Button
+This course is intensive and all modules have deadlines. And If you have not enough time to do your module, but want to continue studying you could shift the deadline a little.
+Initially you’ll be given only 10 dru-shift days. So **use it wisely!!!** 
 
-</div>
+##### How to shift the deadline:
+1. Click “Shift deadlines”
+2. Choose the number of days you wanna shift
+3. Then “Submit”
 
-So, the full **DRU ML specialization** will include:
- - **Data Science Fundamentals course**
- - **Practical Data Science with PyTorch**
- - **Production Deep Learning with Tensorflow 2.0**
- 
-Our **smart bot** will guide you through each module and tell you want to do, when and how.
-Now let's get started with overview of the **beta-version** of the **DRU-bot**. 
- 
- 
-To see all available programs you need to use command `/dru-programs`. 
+###### Here is demo use:
 
-**`Hint`**: It's better to use commands in the chat with **DRU-bot**. Simply go to the chat and send the text of the command as a plain message.
+![GIF 1 shift](img/GIF_1_Shift.gif)
 
- <div align="center">
- <img align="center" width="706" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-in.png?raw=true">
- </div>
- <br>
- 
-After sending the command `/dru-programs` you will see the list of all **DRU programs** and their **descriptions**:
+#### “Invite friend” Button
+To make learning easier and more interesting you could invite your friend(s) to the course using unique referral code. For inviting this way you and your friend(s) will be rewarded some more shift days.  
 
- <div align="center">
- <img align="center" width="450" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dru-programs-out.png?raw=true">
- </div>
-  <br>
- 
-Currently, there is one readily available course **Data Science Fundamentals** that you can apply for. After pressing the **`Apply`** button, you'll see the next message followed by the **`Progress`** button:
+##### How to invite friend:
+1. Click “Invite friend”
+2. Copy your referral code and link for the course page and send them to your friend
+3. When registering, your friend have to paste your code into the special box below
 
-<div align="center">
-<img align="center" width="420" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/dsf-apply.png?raw=true">
-</div>
-<br>
+###### Here is demo:
 
-Press the **`Progress`** button to prompt the **table of contents** to appear. **All unlocked modules** and your **progress** are displayed here.
+![GIF 2 Invite](img/GIF_2_Invite.gif)    
 
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/progress.gif?raw=true">
-</div>
-<br>
+---
+### How to pass the First Module?
+From the moment of applying you’ll be given the Materials and the Math Test:
 
-We have several types of **activities**: 
-* **`Materials`** 
-* **`Test`** 
-* **`Lab`**
-* **`Project`**
-* **`Kaggle`**
+![IMG 4 Test](img/IMG_4_DRU_beta_v3.0_Slack.png)
 
-All activities except **`Materials`** are **graded** and have a set number of **attempts**, **maximum possible points**, and **deadlines**. If you use a few attempts, DRU-bot will **remember** your **best submission result**.  You can see all these indicators in the description of each activity in the bot.
-
-
-## Materials
-
-**`Materials`** button is a link to the table which contains a compilation of the best **MOOCs, articles, tutorials, books** and other resources on a given topic. Also, we specified all **software** you'll need to install and **accounts** you'll need to register to pass every single module. 
-
-<div align="center">
-<img align="center" width="625" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/materials.png?raw=true">
-</div>
-<br>
-
-You can see, that there are 2 materials priorities: **Necessary 2 Pass Skills Test** and **Optional**. Materials with the first type are **required** for you to study. Also, it'll be great if you go through **optional** materials and check those that interest you.
-
-
-Now let's move to graded activities.
-
-## TEST
-
-In order to pass the **`Test`** activity, follow the provided **link** and answer the questions.
-After completing all the questions, press the **`Submit`** button and view the results of your submission.
-
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/math-test.gif?raw=true">
-</div>
-<br>
-
-
-## Lab
-
-To start working on the **`Lab`** activity, **download and unpack** the archive with the template of **Jupyter notebook**, where you will work on the tasks.
-
-<div align="center">
-<img align="center" width="653" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-template.png?raw=true">
-</div>
-<br>
-
-Upon finishing them, upload `.ipynb` file to your **Google Drive** and specify the following access rights:
-
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/access-rights.gif?raw=true">
-</div>
-<br>
-
-Then copy the **link** to your file and follow the instructions to **submit** it using the **command** given by the bot. The bot will process your submission and provide the results. In case of **mistakes** in your code, the bot will also provide the **full traceback** to help you to fix errors.
-
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/lab-submission.gif?raw=true">
-</div>
-<br>
-
-
-## Kaggle
-
-First, you need to create an account on **Kaggle** if you don't have one. Read the instructions carefully and choose one competition from the list, complete it, and submit to Kaggle. 
-
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/kaggle-list.png?raw=true">
-</div>
-<br>
-
-Then go to your Kaggle account settings and create an `API-token`. Copy it and use for submission to DRU-bot:
-
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/api-token.gif?raw=true">
-</div> 
-<br>
-
-If you did everyting correct, the final result should look like this:
-
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/kaggle-submit.png?raw=true">
-</div>
-<br>
-
-
-## Project
-
-Every `project` has a tutorial with the full implementation guideline. Just follow the instructions carefully to develop your project. 
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/snake-guide.png?raw=true">
-</div>
-<br>
-
-All submitting instructions you can find in the guides. Some of the projects (e.g. `Snake project`) you can submit in the same way as `Labs` - just compress the folders to some archive, upload to your Google Drive and provide the link to the bot. To submit another type of project you have to create a Docker image, upload it to the `Docker Hub` and provide the name of the image to the `DRU-bot`.
-
-<br>
-
-> It is **prohibited** to publish DRU **projects**, **labs** or **tests** to the **GitHub**. If you do this you'll be **kicked** from all **`DRU/dHired`** infrastructure and marked as 💩. 
-
-<div align="center">
-<img align="center" src="https://github.com/DataRootUniversity/bot/blob/master/imgs/excommunicado.png?raw=true">
-</div>
-<br>
-
-
-## Deadlines & Submission Attempts
-
+Also you could see your deadlines here. 
+By default, time for passing Module 1 is 7 days from the moment of applying. 
+##### There are some things you should remember about course in whole:
 - To unlock the next module you have to score **75%** of the current module maximum possible points;
 - If you unlocked the next module before the deadline — the remaining days will be added to the next module;
-- You have **10 extra days** for the course — you can add them to your deadline using the command `/dru-shift` (use the command and choose amount of days, the command is available until you run out of extra days)
-- If you failed the deadline or spent all submission attempts but not opened the next module — contact course curators and we'll reset your progress so that you can start the course from the very beginning;
-- If you want to pause the course for some important reason — contact our team in Slack (`@DRU Team`).
+- If you failed the deadline or spent all submission attempts but not opened the next module — contact us: **@DRU Team**
+
+###### Here is demo:
+
+![GIF 3 Test](img/GIF_3_Test.gif)
 
 
-## P.S.
+**Most students don’t pass the test on the first try, but it’s OK,** you have 10 attempts and many useful materials, which we will talk about now
 
-Thanks for helping us to make the program better! If you have any questions, ideas or comments, feel free to contact us! **@DRU Team** will gladly help you with any requests :)
+---
+### How to use given Materials?
+**Materials** — an activity that isn’t evaluated and depends entirely on you. 
+**You don’t need to study everything** — choose only those sections with which you have difficulties or which you want to improve.
+
+There are two main types of materials: **Main** and **Additional**:
+- **Main Materials** — include basic concepts and topics, the understanding of which is necessary.
+- **Additional Materials** — include interesting articles on some topics, books and alternative video courses.
+
+All resources are divided into math sections and activity types (MOOCs, articles, books, video). There is approximate time required to complete the activity at a normal speed to help you to plan your studying effectively.
+
+***Hint:** you can open the Math Test (don't submit yet) and see which tasks you are not familiar with and what topics you need to study/recap. Note, that you haven't any time limits for passing the test, only limits on attempts.
+___
+**So, good luck!**
+If you have any questions, ideas or comments, feel free to contact us! 
+**@DRU Team** will be glad to help you with any requests :)
+
