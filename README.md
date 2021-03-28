@@ -108,7 +108,7 @@ This one will leads you to a short video guide about usage of Bot's interface
 ### How to pass the First Module?
 From the moment of applying you’ll be given 2 Materials Tables and 2 Math Tests:
 
-![IMG 5 Test](img/IMG_5_Test.png)
+![IMG 5 Test](img/IMG_5_Test.jpg)
 
 Also you could see your deadlines here. 
 By default, time for passing Module 1 is 14 days from the moment of applying. 
